@@ -2,6 +2,10 @@
 Thumbs.db
 ehthumbs.db
 
+bin/
+.ieda/
+obj/
+
 # Folder config file
 Desktop.ini
 
